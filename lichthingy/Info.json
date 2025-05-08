@@ -1,0 +1,12 @@
+﻿{
+  "Id": "lichthingy",
+  "DisplayName": "LichThingy",
+  "Author": "",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "lichthingy.dll",
+  "EntryMethod": "lichthingy.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
